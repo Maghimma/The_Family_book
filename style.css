@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+body {
+    text-align: center;
+    background: linear-gradient(#99ffe5 0%, #b7c4ff 50%, #ffa3a3 100% );
+    color: white;
+    font-family: 'Amatic SC';
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: 'Amatic SC';
+    border-radius: 15px;
+    border-color: black;
+}
